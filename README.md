@@ -68,7 +68,7 @@ Clean Code Python : https://github.com/zedr/clean-code-python
 ### Thoughts
 ### Links to work
 - [Section 7](section-07-functional-programming-in-python/README.md)
-## Day 4 (19/7/2020)
+## Day 4
 ### Today's progress
 - Learn Object Oriented Programming In Python(Section 8)
     - OOP Terminology
