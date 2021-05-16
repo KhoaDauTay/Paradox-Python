@@ -79,4 +79,4 @@
 ### Thoughts
 - Section 8 focuses on knowledge and abstract thinking in OOP programming
 ### Links to work
-- [Section 8](section-08-object-oriented-programming-in-python/README.md)# Paradox-Python
+- [Section 8](section-08-object-oriented-programming-in-python/README.md)
