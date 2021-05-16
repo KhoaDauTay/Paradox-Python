@@ -31,7 +31,7 @@
 - [Section 1](section-01-introduction-the-course/README.md)
 - [Section 2](section-02-basic-python-concepts/README.md)
 - [Section 3](section-03-control-structures-in-python/README.md)
-Clean Code Python : https://github.com/zedr/clean-code-python
+- Clean Code Python : https://github.com/zedr/clean-code-python
 ## Day 2
 ### Today's progress
 - Learn functions and modules in Python (Section 4)
